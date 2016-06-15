@@ -1,0 +1,11 @@
+email: quixoticduck@gmail.com
+fullname: 'Clara Alder'
+title: Admin
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$K3RUWwjiaSK30IumtSgEZO8azbscI11/VEZm.HFYxk2z3M3xbDfTu
